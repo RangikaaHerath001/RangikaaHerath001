@@ -88,8 +88,6 @@ Learning: Playwright, Selenium, CI/CD
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RangikaaHerath001&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=RangikaaHerath001&theme=midnight-purple&hide_border=true&background=0D1117"/>
-
 </p>
 
 ---
