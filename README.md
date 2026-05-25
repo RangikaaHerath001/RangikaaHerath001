@@ -89,9 +89,9 @@ Passion: Building reliable software
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RangikaaHerath001&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RangikaaHerath001&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
@@ -101,7 +101,7 @@ Passion: Building reliable software
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RangikaaHerath001&theme=react-dark&bg_color=0D1117&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF"/>
 
 </p>
 
@@ -111,13 +111,13 @@ Passion: Building reliable software
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/rangikaa-herath/">
 
 <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
-<a href="YOUR_GITHUB">
+<a href="https://github.com/RangikaaHerath001/RangikaaHerath001">
 
 <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 
