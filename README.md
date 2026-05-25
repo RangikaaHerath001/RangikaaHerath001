@@ -1,14 +1,12 @@
-<h1 align="center">
-  Hi 👋, I'm Rangika Herath
-</h1>
+<h1 align="center">Hi 👋, I'm Rangika Herath</h1>
 
 <h3 align="center">
-  Software Quality Assurance Candidate ⚡
+Software Quality Assurance Candidate ⚡
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=SQA+Engineer+in+Progress;Automation+Testing+Enthusiast;Playwright+%7C+Selenium+%7C+Postman;Future+SDET" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=SQA+Engineer+in+Progress;Automation+Testing+Enthusiast;Playwright+%7C+Selenium+%7C+Postman;Future+SDET"/>
 
 </p>
 
@@ -18,10 +16,9 @@
 
 ```yaml
 Name: Rangika Herath
-Focus: Software Quality Assurance
-Learning: Automation + SDET Practices
-Tools: Selenium, Playwright, Postman
-Passion: Building reliable software
+Role: Software Quality Assurance Candidate
+Focus: QA Automation + SDET
+Learning: Playwright, Selenium, CI/CD
 ```
 
 ---
@@ -30,7 +27,7 @@ Passion: Building reliable software
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,selenium,github,docker,react,mysql,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,github,docker,react,mysql,javascript,html,css"/>
 
 </p>
 
@@ -79,7 +76,7 @@ Passion: Building reliable software
 # 🏆 Certifications
 
 - ISTQB CTFL Candidate
-- Certified Postman Student Expert
+- Postman Student Expert
 - IBM Test & Behavior Driven Development
 - AWS Cloud 101
 
@@ -89,19 +86,9 @@ Passion: Building reliable software
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RangikaaHerath001&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RangikaaHerath001&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RangikaaHerath001&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-
-# 🌌 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RangikaaHerath001&theme=react-dark&bg_color=0D1117&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF"/>
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=RangikaaHerath001&theme=midnight-purple&hide_border=true&background=0D1117"/>
 
 </p>
 
